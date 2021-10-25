@@ -1,6 +1,7 @@
 
 ## This is the readme.
 
--first point
+- first point
+- second point
 
 
